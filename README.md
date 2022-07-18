@@ -131,7 +131,7 @@ No complication support
 
 ### Count Up
 
-              - Graphic Corner
+- Graphic Corner
 
 ### Explorer
 
