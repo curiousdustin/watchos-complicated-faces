@@ -84,17 +84,7 @@ No complication support
 ### Breathe
 
 - Circular Small
-- Extra Large
-- Graphic Bezel
-- Graphic Circular
-- Graphic Corner
-- Graphic Extra Large
-- Graphic Rectangular
-- Modular Large
-- Modular Small
 - Utilitarian Large
-- Utilitarian Small
-- Utilitarian Small Flat
 
 ### California - Full Screen
 
